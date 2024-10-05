@@ -1,0 +1,15 @@
+{
+    "name": "ox-tech-php/telegram",
+    "description": "A laravel facade to interact with Telegram Bots",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "YourVendor\\YourPackage\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=8.0",
+        "illuminate/support": "^10.0"
+    }
+}
